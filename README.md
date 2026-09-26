@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mahmudjon7">
-    <img src="https://avatars.githubusercontent.com/u/334107043?v=4" width="180" height="180" alt="Mahmudjonning GitHub profil rasmi" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Xojisaid-Mannobov/Xojisaid-Mannobov/main/codex-clipboard-7da97c3b-3c4a-4616-916a-4cf953c6948a.png" width="100%" alt="uzbekona.dev — O‘zbekiston ruhidagi texnologik banner" />
 </p>
 
 <h1 align="center">Salom, men Mahmudjon 👋</h1>
