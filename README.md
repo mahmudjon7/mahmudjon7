@@ -1,11 +1,13 @@
 <h1 align="center">Salom, men Mahmudjon 👋</h1>
 
 <p align="center">
-  <strong>Dasturiy injiniringni o‘rganayotgan dasturchiman.</strong><br />
-  JavaScript, frontend va Python yo‘nalishlariga qiziqaman.
+  <strong>Full Stack Developer</strong><br />
+  Backend tizimlar va zamonaviy web interfeyslar ustida ishlayman.
 </p>
 
 <p align="center">
+  <a href="https://github.com/mahmudjon7?tab=repositories">Loyihalarim</a>
+  ·
   <a href="https://github.com/mahmudjon7">GitHub profilim</a>
 </p>
 
@@ -13,33 +15,43 @@
 
 ## Men haqimda
 
-- 💻 Dasturiy injiniring va amaliy dasturlashni o‘rganmoqdaman.
-- 🌐 Frontend va JavaScript bilan ishlash ko‘nikmalarimni rivojlantirmoqdaman.
-- 🐍 Python orqali dasturlash asoslarini mashq qilmoqdaman.
-- 🎯 Maqsadim — foydali, tushunarli va qulay dasturlar ishlab chiqish.
-- 🇺🇿 O‘zbek tilidagi foydali texnologik loyihalar ham meni qiziqtiradi.
+Men full stack dasturchiman. Backendda **PHP va Yii2**, shuningdek **Python va Django** bilan ishlayman. Frontendda **React** va **JavaScript** yordamida qulay interfeyslar ishlab chiqaman. **Node.js** bilan ham ishlayman.
 
-## Hozir nimalarni o‘rganmoqdaman?
+Menga g‘oyani ishlaydigan web mahsulotga aylantirish — interfeys, server qismi va ularning o‘zaro bog‘lanishi — qiziq.
 
-- HTML va CSS bilan sahifa tuzish
-- JavaScript yordamida interaktivlik qo‘shish
-- Python va dasturlash mantiqi
-- Git hamda GitHub orqali ishlarni tartibli yuritish
+## Texnologiyalar
 
-## Yo‘nalishlarim
+| Yo‘nalish | Texnologiyalar |
+| --- | --- |
+| Backend | PHP, Yii2, Python, Django, Node.js |
+| Frontend | React, JavaScript |
+| Versiya nazorati | Git, GitHub |
 
-| Frontend | Dasturlash | Ish jarayoni |
-| --- | --- | --- |
-| HTML, CSS, JavaScript | Python | Git, GitHub |
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Yii2-0073AA?style=for-the-badge" alt="Yii2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+## Nimalar ustida ishlayman
+
+- Web ilovalarning backend qismi va interfeysini ishlab chiqish
+- React yordamida foydalanuvchiga qulay sahifalar tayyorlash
+- Yii2 va Django bilan server tomonidagi funksiyalarni qurish
+- Frontend va backend qismlarini yagona ishlaydigan tizimga bog‘lash
 
 ## Loyihalar
 
-Bu bo‘limga amaliy loyihalarimni tayyor bo‘lgani sari qo‘shib boraman. Kod va o‘rganish jarayonimni [repositorylarim](https://github.com/mahmudjon7?tab=repositories) orqali kuzatishingiz mumkin.
+Ishlarim bilan [repositorylarim](https://github.com/mahmudjon7?tab=repositories) orqali tanishishingiz mumkin. Yangi loyihalarni shu yerda ko‘rsatib boraman.
 
 ## Bog‘lanish
 
-GitHub orqali bog‘lanishingiz mumkin: [@mahmudjon7](https://github.com/mahmudjon7)
+GitHub: [@mahmudjon7](https://github.com/mahmudjon7)
 
 ---
 
-<p align="center"><em>Har kuni yangi bilim, har bir loyiha bilan yangi tajriba.</em></p>
+<p align="center"><em>Foydali g‘oyalarni ishlaydigan dasturga aylantiraman.</em></p>
