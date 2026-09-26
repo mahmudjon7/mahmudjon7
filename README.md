@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/mahmudjon7">
+    <img src="https://avatars.githubusercontent.com/u/334107043?v=4" width="180" height="180" alt="Mahmudjonning GitHub profil rasmi" />
+  </a>
+</p>
+
 <h1 align="center">Salom, men Mahmudjon 👋</h1>
 
 <p align="center">
