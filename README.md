@@ -56,6 +56,3 @@ Ishlarim bilan [repositorylarim](https://github.com/mahmudjon7?tab=repositories)
 
 GitHub: [@mahmudjon7](https://github.com/mahmudjon7)
 
----
-
-<p align="center"><em>Foydali g‘oyalarni ishlaydigan dasturga aylantiraman.</em></p>
